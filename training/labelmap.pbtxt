@@ -1,0 +1,24 @@
+item {
+  id: 1
+  name: 'pietoni'
+}
+item {
+  id: 2
+  name: 'interzis'
+}
+item {
+  id: 3
+  name: 'oprireinterzisa'
+}
+item {
+  id: 4
+  name: 'stop'
+}
+item {
+  id: 5
+  name: 'giratoriu'
+}
+item {
+  id: 6
+  name: 'cedeaza trecerea'
+}
